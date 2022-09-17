@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+<img src="assets/screenshot/screenshot.png" width=200/>
 
 ## Getting Started
 
